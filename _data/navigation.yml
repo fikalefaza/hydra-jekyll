@@ -1,12 +1,12 @@
-- name: Pricing
+- name: Info perusahaan
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: Lini Bisnis
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: Ivestor
   link: /about/
   new_window: false
   highlight: false
@@ -14,11 +14,11 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+- name: Karir
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
+- name: Business Portfolio
   link: /
   new_window: true
   highlight: true
